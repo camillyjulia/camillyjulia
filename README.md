@@ -8,17 +8,22 @@
     <p align="center">studying Biomedic Informatics at UFCSPA | my main focus is to be a fullstack dev</p>
   </div>
   <div>
-    <p align="left"><strong>💌 stacks I've used:</strong></p>
     <div>
       <img src="https://techcrunch.com/wp-content/uploads/2010/07/miffy_notebook-620x465.jpg" alt="miffy's computer" min-width="400px" max-width="400px" width="400px" align="right">
-      <a href="https://skillicons.dev" align="left">
-    <img src="https://skillicons.dev/icons?i=python,ts,spring,java,c#,html,css,mysql,react&theme=light" />
-      </a>
     </div>
-    <p align="left" padding-top="5px"><strong>💌 tools I've used:</strong></p>
   </div>
   <div>
     
   </div>
 
 </div>
+
+#### 💌 stacks I've used:
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,figma,vue,angular,tailwind,css,bootstrap,c,cs,dotnet,postgres,mysql,py,react&theme=light&perline=7)](https://skillicons.dev)
+
+#### 💌 tools I've used:
+[![My Skills](https://skillicons.dev/icons?i=figma,gitlab,github,blender,maven,supabase,vercel&theme=light&perline=7)](https://skillicons.dev)
+
+#### 💌 learning:
+[![My Skills](https://skillicons.dev/icons?i=nextjs,go,vue,dart,flutter,docker,mongodb,spring&theme=light&perline=7)](https://skillicons.dev)
+
