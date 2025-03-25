@@ -17,7 +17,7 @@
 </div>
 
 #### 💌 stacks I've used:
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,vue,angular,tailwind,css,bootstrap,c,cs,dotnet,js,ts,mysql,py,react,postgres&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,vue,angular,tailwind,css,bootstrap,c,cs,dotnet,js,ts,mysql,py,react,postgres&theme=light&perline=9)](https://skillicons.dev)
 
 #### 💌 tools I've used:
 [![My Skills](https://skillicons.dev/icons?i=figma,gitlab,github,blender,maven,supabase,vercel&theme=light&perline=10)](https://skillicons.dev)
